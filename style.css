@@ -1,0 +1,30 @@
+body{
+    background: url(photo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.SurveyFormbox{
+    background: teal;
+    padding: 60px;
+    width: 500px;
+    margin: auto;
+    margin-top: 90px;
+
+}
+.icon_side{
+    display: flex;
+    align-items: center;
+    
+}
+.paragraph{
+    align-items: flex-start;
+    margin-left: 10px;
+}
+.logo{
+    height: 200px;
+    width: 200px;
+    border border-radius: 50%;
+}
+
+
